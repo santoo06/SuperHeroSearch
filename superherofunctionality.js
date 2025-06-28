@@ -23,6 +23,7 @@ var superhero_name = "";
 var superhero_powerstats = "";
 var superhero_img_url = "";
 var superhero_biography = "";
+
 const api = "https://www.superheroapi.com/api.php/877798263154340/search/";
 
 
